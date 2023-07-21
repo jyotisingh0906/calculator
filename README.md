@@ -1,1 +1,3 @@
 # calculator
+By - Jyoti Thakur 
+by using HTML,CSS and JS...
